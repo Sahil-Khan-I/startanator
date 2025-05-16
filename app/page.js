@@ -15,9 +15,9 @@ export default function Home() {
 
         <div className="max-w-2xl text-center sm:text-left">
           <p className="text-gray-600 dark:text-gray-400 mb-6">
-            Hey there! I'm a 17-year-old developer who built Startanator to help tech enthusiasts like you find their tribe. 
-            Whether you're looking for co-founders, friends, or just someone to geek out about the latest tech trends with, 
-            you're in the right place!
+            Hey there! I&apos;m a 17-year-old developer who built Startanator to help tech enthusiasts like you find their tribe. 
+            Whether you&apos;re looking for co-founders, friends, or just someone to geek out about the latest tech trends with, 
+            you&apos;re in the right place!
           </p>
         </div>
 
