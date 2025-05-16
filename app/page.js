@@ -62,7 +62,7 @@ export default function Home() {
             <h2 className="text-3xl sm:text-4xl font-bold mb-6 text-white">Why Startanator Exists</h2>
             <p className="text-lg text-gray-400">
               I built Startanator because as a teen in tech, I realized how hard it is to find people who understand your ideas and share your passion. 
-              The next wave of innovation won't come from lone wolves, but from collaborative teams with diverse skills and shared enthusiasm.
+              The next wave of innovation won&apos;t come from lone wolves, but from collaborative teams with diverse skills and shared enthusiasm.
             </p>
           </div>
           
@@ -87,7 +87,7 @@ export default function Home() {
                   </svg>
                 </div>
                 <h3 className="font-semibold text-xl mb-2 text-white">Build What Matters</h3>
-                <p className="text-gray-400 flex-grow">Whether it's a revolutionary AI system or a simple app that solves a real problem, build things that matter.</p>
+                <p className="text-gray-400 flex-grow">Whether it&apos;s a revolutionary AI system or a simple app that solves a real problem, build things that matter.</p>
               </div>
             </div>
             
@@ -112,7 +112,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold mb-6 text-white">How Startanator Works</h2>
             <p className="text-lg text-gray-400 max-w-3xl mx-auto">
-              We've made it simple to find your perfect tech match - whether you're looking for cofounders, project partners, or just friends who speak your language.
+              We&apos;ve made it simple to find your perfect tech match - whether you&apos;re looking for cofounders, project partners, or just friends who speak your language.
             </p>
           </div>
 
@@ -173,7 +173,7 @@ export default function Home() {
               </div>
             </div>
             <p className="text-gray-400">
-              "We were both passionate about AR but working on separate projects. Now we&apos;re building an educational AR platform that just got its first school district pilot!"
+              &quot;We were both passionate about AR but working on separate projects. Now we&apos;re building an educational AR platform that just got its first school district pilot!&quot;
             </p>
           </div>
 
@@ -188,7 +188,7 @@ export default function Home() {
               </div>
             </div>
             <p className="text-gray-400">
-              "I was a backend developer looking to learn AI. Mina was an AI researcher who needed help scaling. Now we&apos;re building our third project together!"
+              &quot;I was a backend developer looking to learn AI. Mina was an AI researcher who needed help scaling. Now we&apos;re building our third project together!&quot;
             </p>
           </div>
         </div>
@@ -200,7 +200,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold mb-6 text-white">From Simple to Extraordinary</h2>
             <p className="text-lg text-gray-400 max-w-3xl mx-auto">
-              Whether you want to create something simple but useful or something that changes the world, you'll find your people here.
+              Whether you want to create something simple but useful or something that changes the world, you&apos;ll find your people here.
             </p>
           </div>
 
